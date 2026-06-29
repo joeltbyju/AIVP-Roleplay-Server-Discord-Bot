@@ -309,9 +309,9 @@ Some private assets and configuration have been removed for security purposes.
 
 # 👨‍💻 Author
 
-**Joel T. Baiju**
+**Joel T Byju**
 
-Third Year BCA Student
+
 
 Discord Bot Developer
 
