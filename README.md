@@ -22,6 +22,14 @@ AIVP Discord Bot is a complete community management solution developed for a Fiv
 The bot automates server management, player onboarding, moderation, support handling, whitelist processing, server announcements, role management, and real-time FiveM server integration.
 
 ---
+# 📸 Screenshots
+
+## Discord Preview
+
+![Preview](preview/1.png)
+![Preview2](preview/2.png)
+---
+
 
 # ✨ Features
 
